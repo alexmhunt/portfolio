@@ -38,7 +38,7 @@ body{
 }
 
 /* For mobile: */
-[class*= "col-"]{
+[class*="col-"]{
     width: 100%;
 }
 
