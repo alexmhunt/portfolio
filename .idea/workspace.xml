@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,6 +48,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github repos\portfolio" />
       <recent name="E:\github repos\portfolio\projects" />
       <recent name="C:\Users\jolyn\Documents\GitHub\portfolio\projects" />
       <recent name="C:\Users\jolyn\Documents\GitHub\portfolio" />
@@ -63,7 +64,7 @@
       <updated>1630251724563</updated>
       <workItem from="1630251740736" duration="416000" />
       <workItem from="1631649764378" duration="9795000" />
-      <workItem from="1631661380295" duration="4499000" />
+      <workItem from="1631661380295" duration="8816000" />
     </task>
     <servers />
   </component>
