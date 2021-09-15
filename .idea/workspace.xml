@@ -1,93 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2b2b12-16cf-4147-863f-48fbf5c99767" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_tiles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/audiovisualizerfull.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/audiovisualizericon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nightruncover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nightrunscreenshot1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nightrunscreenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nightrunscreenshot50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nightrunscreenshotresized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nightrunscreenshotresized2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/audiovisualizer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/generic-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/nightrun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="3d2b2b12-16cf-4147-863f-48fbf5c99767" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +16,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xPLKqVJaTUP29IVyNC4LhilsPF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -126,6 +48,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github repos\portfolio\projects" />
       <recent name="C:\Users\jolyn\Documents\GitHub\portfolio\projects" />
       <recent name="C:\Users\jolyn\Documents\GitHub\portfolio" />
     </key>
@@ -140,6 +63,7 @@
       <updated>1630251724563</updated>
       <workItem from="1630251740736" duration="416000" />
       <workItem from="1631649764378" duration="9795000" />
+      <workItem from="1631661380295" duration="4499000" />
     </task>
     <servers />
   </component>
@@ -156,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
